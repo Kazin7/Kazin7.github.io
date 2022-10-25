@@ -23,47 +23,39 @@ github_username:  Kazin7
 facebook_username: 100004504870167
 instagram_username: los_ys_14
 
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
-# About Section
-# about_title: About Me (Use this to override about section title)
+additional_links:
+- title: Link name
+  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  url: Link url (eg. https://google.com)
+  
 about_profile_image: images/myPhoto2.jpg
-about_content: | # this will include new lines to allow paragraphs
-  - **학력** : <br>
-  <h3>서울 영동고등학교</h3><졸업>
-  <h3>춘천 한림대학교</h3><재학>
-  - **소속** : <br>
-  - 전공 : 빅데이터 <br>
-  - 부전공 : 콘텐츠 IOT <br>
-  
-  
-
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+    - Lists
+    - Tables
+    - <a href="google.com">Links</a>
+    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 content:
-  - title: ✏사용 가능한 프로그래밍 언어 # Title for the section
-    layout: text # Type of content section (list/text)
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
     content:
-       1. java
-         ```java
-           System.out.println("Hello Java");
-         ```
-      2. java script / css
-          ```java script
-           document.write("Hello Java script")
-           ``` 
-      4. python
-         ```python
-           print("Hello Python")
-         ``` 
-      6. C
-         ```c
-           printf("Hello C");
-         ```
-     
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
   - title: Experience
     layout: list
     content:
@@ -91,9 +83,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
@@ -101,23 +91,3 @@ footer_show_references: true
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
-
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
