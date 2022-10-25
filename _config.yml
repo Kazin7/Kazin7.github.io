@@ -24,15 +24,6 @@ facebook_username: https://www.facebook.com/profile.php?id=100004504870167
 instagram_username: https://www.instagram.com/los_ys_14/
 
 
-# Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
