@@ -44,29 +44,15 @@ content:
       　　　　　　　　　　　　　　　　　　　　　　　　　5. R
       </h2><br>
      
-  - title: Experience
-    layout: list
+  - title:## 🏆취득 자격증
+    layout: text # Type of content section (list/text)
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: Education
-    layout: list
+      네트워크관리사2급
+      리눅스마스터2급
+  - title: 📋2022 2학기 주요 커리큘럼 수강 이력
+    layout: text # Type of content section (list/text)
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+    
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
