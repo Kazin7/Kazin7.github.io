@@ -27,7 +27,7 @@ instagram_username: los_ys_14
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/myPhoto2.jpg
 about_content: | # this will include new lines to allow paragraphs
-   dddddddddd
+    - **학력** : <br>
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
