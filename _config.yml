@@ -37,22 +37,24 @@ content:
   - title: ✏학습 프로그래밍 언어 # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      1. java
-         ```java
+    <span style="font-size:300%">
+      1. java<br>
+         ```
            System.out.println("Hello Java");
-         ```
-      2. java script / css
-          ```java script
+         ```<br>
+      2. java script / css<br>
+          ```
            document.write("Hello Java script")
-           ``` 
-      4. python
-         ```python
-           print("Hello Python")
-         ``` 
-      6. C
-         ```c
-           printf("Hello C");
+           ``` <br>
+      4. python<br>
          ```
+           print("Hello Python")
+         ``` <br>
+      6. C<br>
+         ```
+           printf("Hello C");
+         ```<br>
+    </span> 
   - title: Experience
     layout: list
     content:
