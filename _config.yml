@@ -37,8 +37,23 @@ content:
   - title: Projects # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-    ##  ✏학습 프로그래밍 언어
-      
+    ✏학습 프로그래밍 언어
+      1. java
+         ```java
+           System.out.println("Hello Java");
+         ```
+      2. java script / css
+          ```java script
+           document.write("Hello Java script")
+           ``` 
+      4. python
+         ```python
+           print("Hello Python")
+         ``` 
+      6. C
+         ```c
+           printf("Hello C");
+         ```
   - title: Experience
     layout: list
     content:
