@@ -37,7 +37,7 @@ content:
   - title: ✏학습 프로그래밍 언어 # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      1. java<br>
+      <h1>1. java</h1><br>
          ```
            System.out.println("Hello Java");
          ```<br>
