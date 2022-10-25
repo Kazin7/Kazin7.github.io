@@ -38,7 +38,7 @@ content:
     layout: text # Type of content section (list/text)
     content:
       <h3>1. java</h3><br>
-           <h3>System.out.println("Hello Java")</h3>;<br>
+           <h3>System.out.println("Hello Java")</h3><br>;
       <h3>2. java script / css</h3><br>
            <h3>document.write("Hello Java script")</h3><br>
       <h3>4. python</h3><br>
