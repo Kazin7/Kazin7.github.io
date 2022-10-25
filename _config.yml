@@ -29,10 +29,10 @@ about_profile_image: images/myPhoto2.jpg
 about_content: | # this will include new lines to allow paragraphs
   - **학력**<br>
   서울 영동고등학교<졸업><br>
-  춘천 한림대학교<재학><br>
+  춘천 한림대학교<재학><br><br><br>
   - **소속**<br>
-  - 전공 : 빅데이터 <br>
-  - 부전공 : 콘텐츠 IOT <br>
+  전공 : 빅데이터 <br>
+  부전공 : 콘텐츠 IOT <br>
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
