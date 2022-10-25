@@ -37,10 +37,9 @@ content:
   - title: ✏학습 프로그래밍 언어 # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      <h2>1. java</h2><br>
-      <h2>1. java</h2><br>
-      <h2>2. java script / css</h2><br>
-      document.write("Hello Java script")<br>
+      <h2>1. java<br>
+      1. java<br>
+      2. java script / css</h2><br>
      
   - title: Experience
     layout: list
