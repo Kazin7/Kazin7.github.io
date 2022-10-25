@@ -50,14 +50,14 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/myPhoto2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+   - **학력** : <br>
+  <h3>서울 영동고등학교</h3><졸업>
+  <h3>춘천 한림대학교</h3><재학>
+  - **소속** : <br>
+  - 전공 : 빅데이터 <br>
+  - 부전공 : 콘텐츠 IOT <br>
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
