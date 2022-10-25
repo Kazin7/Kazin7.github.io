@@ -38,9 +38,9 @@ content:
     layout: text # Type of content section (list/text)
     content:
       <h1>1. java</h1><br>
-           <h1>System.out.println("Hello Java")</h1><br>;
+      <h1>System.out.println("Hello Java");</h1><br>
       <h1>2. java script / css</h1><br>
-           <h1>document.write("Hello Java script")</h1><br>
+      <h1>document.write("Hello Java script")</h1><br>
      
   - title: Experience
     layout: list
