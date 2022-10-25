@@ -38,6 +38,7 @@ content:
     layout: text # Type of content section (list/text)
     content:
       <h2>1. java</h2><br>
+      <h2>1. java</h2><br>
       <h2>2. java script / css</h2><br>
       document.write("Hello Java script")<br>
      
