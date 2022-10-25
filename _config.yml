@@ -38,8 +38,10 @@ content:
     layout: text # Type of content section (list/text)
     content:
       <h2>1. java<br>
-      1. java<br>
-      2. java script / css</h2><br>
+      2. java script / css<br>
+      3. C<br>
+      4. python<br>
+      </h2><br>
      
   - title: Experience
     layout: list
