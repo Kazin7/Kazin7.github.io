@@ -37,12 +37,11 @@ content:
   - title: ✏학습 프로그래밍 언어 # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      - layout: right
-      <h2>1. java<br>
-      2. java script / css<br>
-      3. C<br>
-      4. python<br>
-      5. R
+      <h2>　　　　　　　　　　1. java<br>
+      　　　　　　　　　　2. java script / css<br>
+      　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　3. C<br>
+      　　　　　　　　　　　　　　　　　　　　4. python<br>
+      　　　　　　　　　　5. R
       </h2><br>
      
   - title: Experience
