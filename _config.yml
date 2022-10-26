@@ -56,6 +56,12 @@ content:
   - title: 앞으로의 계획
     layout: text # Type of content section (list/text)
     content:
+  - title: 앞으로의 계획
+    layout: text # Type of content section (list/text)
+    content:
+  - title: 앞으로의 계획
+    layout: text # Type of content section (list/text)
+    content:
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
