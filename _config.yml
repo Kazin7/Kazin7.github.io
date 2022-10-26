@@ -57,7 +57,13 @@ content:
   - title: 📋2022 2학기 주요 커리큘럼 수강 이력
     layout: text # Type of content section (list/text)
     content:
-          　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<mark>네트워크관리사2급</mark><br>
+      <h2>　　　　　　　　　　　　　　　　　　　　　　　　　1. 네트워크 보안<br>
+      　　　　　　　　　　　　　　　　　　　　　　　　　2. 선형대수<br>
+      　　　　　　　　　　　　　　　　　　　　　　　　　3. 인공지능영어2<br>
+      　　　　　　　　　　　　　　　　　　　　　　　　　4. 빅데이터기초<br>
+      　　　　　　　　　　　　　　　　　　　　　　　　　5. VR/AR게임제작기초<br>
+                   　　　　　　　　　　　　　　　　　　6. 오픈소스SW개발도구활용
+      </h2><br>
                                          
   - title: 앞으로의 계획
     layout: text # Type of content section (list/text)
