@@ -64,7 +64,25 @@ content:
       　　　　　　　　　　　　　　　　　　　　　　　　　5. <mark>VR/AR게임제작기초</mark><br><br>
                                　　　　　　　　　　　　　　　　　　　　　　　　　6. <mark>오픈소스SW개발도구활용</mark><br><br>
       </h2>
-                                         
+  - title: 📋현재까지 전공 관련 학점
+    layout: text # Type of content section (list/text)
+    content:
+      <h2>　　　　　　　　　　　　　　　　　　　　　　　　　1. <mark>유헬스기초프로그래밍I : Ao</mark><br><br>
+      　　　　　　　　　　　　　　　　　　　　　　　　　2. <mark>유헬스기초프로그래밍II : Ao</mark><br><br>
+      　　　　　　　　　　　　　　　　　　　　　　　　　3. <mark>자바프로그래밍Ⅰ : Ao</mark><br><br>
+      　　　　　　　　　　　　　　　　　　　　　　　　　4. <mark>자료구조 : A+</mark><br><br>
+      　　　　　　　　　　　　　　　　　　　　　　　　　5. <mark>C프로그래밍I : A+</mark><br><br>
+                               　　　　　　　　　　　　　　　　　　　　　　　　　6. <mark>	C++프로그래밍 : B+</mark><br><br>
+                                                        5. <mark>파이썬프로그래밍응용 : Ao</mark><br><br>
+                                                        5. <mark>오픈소스SW의이해 : Ao</mark><br><br>
+                                                        5. <mark>오픈소스리눅스실무 : Ao</mark><br><br>
+                                                        5. <mark>운영체제 : A+</mark><br><br>
+                                                        5. <mark>인공지능 : Ao</mark><br><br>
+                                                        5. <mark>웹프로그래밍 : A+</mark><br><br>
+                                                        5. <mark>윈도우프로그래밍 : A+</mark><br><br>
+                                                        5. <mark>데이터사이언스기초 : Ao</mark><br><br>
+      </h2>
+    
   - title: 프로젝트 # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -85,7 +103,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Docker를 이용하여 Wordpress를 사용해보았습니다.
           GCP를 이용하여 서버를 구동하고 있고, 서버를 운영중에 있습니다.
-          무서운 이야기를 보고 싶다면 간단하게 와서 읽어보는 것을 추천합니다.
+          <mark>무서운 이야기</mark>를 보고 싶다면 간단하게 와서 읽어보는 것을 추천합니다.
 
           
   - title: 앞으로의 계획
