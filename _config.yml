@@ -102,7 +102,7 @@ content:
                 　　　　　　　　　　　　　　　　　　<img src="images/site.png"><br>
         description: | # this will include new lines to allow paragraphs
           Docker를 이용하여 Wordpress를 사용해보았습니다.
-          GCP를 이용하여 서버를 구동하고 있고, 서버를 운영중에 있습니다.
+          GCP를 이용하여 서버를 구동하고 있고, 현재 서버를 운영중에 있습니다.
           <mark>무서운 이야기</mark>를 보고 싶다면 간단하게 와서 읽어보는 것을 추천합니다.
           
   - title: 프로젝트 # Title for the section
