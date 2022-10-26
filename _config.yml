@@ -25,6 +25,7 @@ instagram_username: los_ys_14
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/myPhoto2.jpg
 about_content: | # this will include new lines to allow paragraphs
+<img src="images/myPhoto1.png"><br>
   - **학력**<br>
   서울 영동고등학교(졸업)<br>
   춘천 한림대학교(재학)<br><br><br>
