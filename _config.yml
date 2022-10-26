@@ -121,8 +121,8 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-                　　　　　　　　　　　　　　　　　　<img src="images/site.png"><br>
-                                  <img src="images/site.png"><br>
+                　　　　　　　　　　　　　　　　　　<img src="images/table.png"><br>
+                                  <img src="images/graph.png"><br>
         description: | # this will include new lines to allow paragraphs
           R을 사용하여 빅데이터를 정제하여 원하는 표본을 추출하여 그래프를 그렸습니다.
           
