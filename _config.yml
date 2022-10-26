@@ -52,8 +52,10 @@ content:
   - title: 📋2022 2학기 주요 커리큘럼 수강 이력
     layout: text # Type of content section (list/text)
     content:
-    |번호|과목명|
   - title: 앞으로의 계획
+    layout: text # Type of content section (list/text)
+    content:
+  - title: 왜안되지
     layout: text # Type of content section (list/text)
     content:
 # Footer
