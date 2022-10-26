@@ -54,13 +54,92 @@ content:
   - title: 📋2022 2학기 주요 커리큘럼 수강 이력
     layout: text # Type of content section (list/text)
     content:
-    　　<h2>　　　　　　　　　　　　　　　　　　　　　　　1.네트워크 보안<br><br>
-                             2.선형대수<br><br>
-                             3.인공지능 영어<br><br>
-                             4.VR/AR 게임제작기초<br><br>
-                             5.오픈소스SW개발도구활용<br><br>
-                             6.인공지능영어2<br><br>
-                             7.오디세이세미나3</h2><br>
+    <table>
+  <tr>
+    <th>학년</th>
+    <th>학기</th>
+    <th>구분</th>
+    <th>과목명</th>
+    <th>학점</th>
+  </tr>
+  <tr>
+    <th>1</th>
+    <th>1</th>
+    <th>전공필수</th>
+    <th>자바프로그래밍1</th>
+    <th>3</th>
+  </tr>
+  <tr>
+    <th>1</th>
+    <th>1</th>
+    <th>전공필수</th>
+    <th>이산구조론</th>
+    <th>3</th>
+  </tr>
+  <tr>
+    <th>1</th>
+    <th>1</th>
+    <th>기초 - 정보</th>
+    <th>컴퓨팅사고와 문제해결 - 파이썬</th>
+    <th>2</th>
+  </tr>
+  <tr>
+    <th>1</th>
+    <th>2</th>
+    <th>전공필수</th>
+    <th>자바프로그래밍2</th>
+    <th>3</th>
+  </tr>
+  <tr>
+    <th>1</th>
+    <th>2</th>
+    <th>전공필수</th>
+    <th>선형대수</th>
+    <th>3</th>
+  </tr>
+   <tr>
+    <th>1</th>
+    <th>2</th>
+    <th>기초 - 정보</th>
+    <th>창의코딩 - 웹</th>
+    <th>2</th>
+  </tr>
+  <tr>
+    <th>2</th>
+    <th>1</th>
+    <th>전공선택</th>
+    <th>소프트웨어개론</th>
+    <th>3</th>
+  </tr>
+  <tr>
+    <th>2</th>
+    <th>1</th>
+    <th>전공선택</th>
+    <th>자료구조</th>
+    <th>3</th>
+  </tr>
+  <tr>
+    <th>2</th>
+    <th>1</th>
+    <th>전공선택</th>
+    <th>C프로그래밍</th>
+    <th>3</th>
+  </tr>
+  <tr>
+    <th>2</th>
+    <th>1</th>
+    <th>전공선택</th>
+    <th>데이터사이언스기초</th>
+    <th>3</th>
+  </tr>
+  <tr>
+    <th>2</th>
+    <th>1</th>
+    <th>전공선택</th>
+    <th>소프트웨어 세미나</th>
+    <th>1</th>
+  </tr>
+</table>
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
