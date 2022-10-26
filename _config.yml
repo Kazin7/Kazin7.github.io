@@ -51,10 +51,13 @@ content:
       　　　　　　　　　　　　　　　　　　<img src="images/Network.png"><br>
       　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<mark>리눅스마스터2급</mark><br>
       　　　　　　　　　　　　　　　　　　<img src="images/LinuxMaster.png"><br>
-  - title: 📋2022 2학기 주요 커리큘럼 수강 이
+  - title: 📋2022 2학기 주요 커리큘럼 수강 이력
     layout: text # Type of content section (list/text)
     content:
-    dsdsdsdsdsdsdsdsdsd
+    
+  - title: 앞으로의 계획
+    layout: text # Type of content section (list/text)
+    content:
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
