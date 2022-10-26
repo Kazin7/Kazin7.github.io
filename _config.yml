@@ -11,7 +11,7 @@ title: The College Student, Hallym University
 email: krustm8@naver.com
 # email_title: Email (Email title override)
 website: http://34.64.239.164:8000
-website_title: Horror (Website title override)
+website_title: Horror
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -25,7 +25,7 @@ instagram_username: los_ys_14
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/myPhoto2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <img src="images/myPhoto1.png"><br>
+  <img src="images/myPhoto1.jpg"><br>
   - **학력**<br>
   서울 영동고등학교(졸업)<br>
   춘천 한림대학교(재학)<br><br><br>
