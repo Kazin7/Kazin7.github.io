@@ -116,7 +116,7 @@ content:
         additional_links:
           - title:  빅데이터 그래프
             icon: fab fa-github
-            url: https://colab.research.google.com/drive/1v8-NocGZvtCyhZni_7Y0BY3IgqHphflR?usp=sharing
+            url: https://colab.research.google.com/drive/1v8-NocGZvtCyhZni_7Y0BY3IgqHphflR?usp=sharing<br>https://drive.google.com/file/d/1etLvlILV7yKz9f8N-19ItMncxszHVZ3P/view?usp=sharing
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -124,7 +124,9 @@ content:
                 　　　　　　　　　　　　　　　　　　<img src="images/table.png"><br>
                                   <img src="images/graph.png"><br>
         description: | # this will include new lines to allow paragraphs
-          R을 사용하여 빅데이터를 정제하여 원하는 표본을 추출하여 그래프를 그렸습니다.
+          R을 사용하여 빅데이터를 정제하여 원하는 표본을 추출하여 그래프를 그렸습니다.<br>
+          인터넷을 사용하는 고객의 정보를 담은 빅데이터를 남자,여자,계약기간을 기준으로 데이터를 추출하였고,<br>
+          추출한 데이터를 ggplot2과 geombar를 사용하여 그래프를 그렸습니다.
           
   - title: 앞으로의 계획
     layout: text # Type of content section (list/text)
