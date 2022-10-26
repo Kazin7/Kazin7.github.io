@@ -81,27 +81,12 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+                　　　　　　　　　　　　　　　　　　<img src="images/site.png"><br>
         description: | # this will include new lines to allow paragraphs
           Docker를 이용하여 Wordpress를 사용해보았습니다.
           GCP를 이용하여 서버를 구동하고 있고, 서버를 운영중에 있습니다.
           무서운 이야기를 보고 싶다면 간단하게 와서 읽어보는 것을 추천합니다.
-          
-        title: WordPress를 이용한 웹사이트 구현
-        link: http://34.64.239.164:8000
-        additional_links:
-          - title:  무서운 게시판
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Docker를 이용하여 Wordpress를 사용해보았습니다.
-          GCP를 이용하여 서버를 구동하고 있고, 서버를 운영중에 있습니다.
-          무서운 이야기를 보고 싶다면 간단하게 와서 읽어보는 것을 추천합니다.
+
           
   - title: 앞으로의 계획
     layout: text # Type of content section (list/text)
