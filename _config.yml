@@ -54,13 +54,13 @@ content:
   - title: 📋2022 2학기 주요 커리큘럼 수강 이력
     layout: text # Type of content section (list/text)
     content:
-    　　　　　　　　　　　　　　　　　　　　　　　　　<h3>1.네트워크 보안<br><br>
+    　　<h2>　　　　　　　　　　　　　　　　　　　　　　　1.네트워크 보안<br><br>
                              2.선형대수<br><br>
                              3.인공지능 영어<br><br>
                              4.VR/AR 게임제작기초<br><br>
                              5.오픈소스SW개발도구활용<br><br>
                              6.인공지능영어2<br><br>
-                             7.오디세이세미나3<br></h3>
+                             7.오디세이세미나3</h2><br>
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
