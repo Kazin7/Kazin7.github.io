@@ -33,13 +33,13 @@ about_content: | # this will include new lines to allow paragraphs
   부전공 : 콘텐츠 IOT <br>
 content:
   - title: ✏학습 프로그래밍 언어 # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
-      <h2>　　　　　　　　　　　　　　　　　　　　　　　　　**1. java**<br>
-      　　　　　　　　　　　　　　　　　　　　　　　　　**2. java script / css**<br>
-      　　　　　　　　　　　　　　　　　　　　　　　　　**3. C**<br>
-      　　　　　　　　　　　　　　　　　　　　　　　　　**4. python**<br>
-      　　　　　　　　　　　　　　　　　　　　　　　　　**5. R**
+      <h2>　　　　　　　　　　　　　　　　　　　　　　　　　1. java<br>
+      　　　　　　　　　　　　　　　　　　　　　　　　　2. html/css<br>
+      　　　　　　　　　　　　　　　　　　　　　　　　　3. C<br>
+      　　　　　　　　　　　　　　　　　　　　　　　　　4. python<br>
+      　　　　　　　　　　　　　　　　　　　　　　　　　5. R
       </h2><br>
      
   - title: 🏆취득 자격증
@@ -52,6 +52,7 @@ content:
   - title: 📋2022 2학기 주요 커리큘럼 수강 이력
     layout: text # Type of content section (list/text)
     content:
+    
   - title: 앞으로의 계획
     layout: text # Type of content section (list/text)
     content:
