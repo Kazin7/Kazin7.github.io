@@ -116,10 +116,10 @@ content:
         additional_links:
           - title:  빅데이터 그래프
             icon: fab fa-github
-            url: https://colab.research.google.com/drive/1v8-NocGZvtCyhZni_7Y0BY3IgqHphflR?usp=sharing<br>https://drive.google.com/file/d/1etLvlILV7yKz9f8N-19ItMncxszHVZ3P/view?usp=sharing
+            url: https://colab.research.google.com/drive/1v8-NocGZvtCyhZni_7Y0BY3IgqHphflR?usp=sharing
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://drive.google.com/file/d/1etLvlILV7yKz9f8N-19ItMncxszHVZ3P/view?usp=sharing
         quote: >
                 　　　　　　　　　　　　　　　　　　<img src="images/table.png"><br>
                                   <img src="images/graph.png"><br>
