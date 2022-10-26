@@ -71,9 +71,8 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: WordPress를 이용한 웹사이트 구현
+        link: http://34.64.239.164:8000 (eg. sproogen.github.io/modern-resume-theme)(optional)
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
