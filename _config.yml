@@ -69,6 +69,10 @@ content:
     content:
     현재는 백준 사이트에서 코딩테스트 준비를 위한 공부를 하고있으며, VMWARE를 사용한 서버를 구동하여 서버에 침투하는 네트워크 보안에 대하여 공부할 계획입니다.<br>
     컴퓨터 지식뿐만아니라, 제 몸도 챙기기 위해 운동도 꾸준히 할예정입니다!
+    
+  - title: 앞으로의 계획
+    layout: text # Type of content section (list/text)
+    content:
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
