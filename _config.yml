@@ -57,7 +57,8 @@ content:
   - title: 📋2022 2학기 주요 커리큘럼 수강 이력
     layout: text # Type of content section (list/text)
     content:
-          　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+          　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<mark>네트워크관리사2급</mark><br>
+                                         
   - title: 앞으로의 계획
     layout: text # Type of content section (list/text)
     content:
