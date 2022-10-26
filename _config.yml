@@ -33,7 +33,7 @@ about_content: | # this will include new lines to allow paragraphs
   부전공 : 콘텐츠 IOT <br>
 content:
   - title: ✏학습 프로그래밍 언어 # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       <h2>　　　　　　　　　　　　　　　　　　　　　　　　　**1. java**<br>
       　　　　　　　　　　　　　　　　　　　　　　　　　**2. java script / css**<br>
