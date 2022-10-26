@@ -112,7 +112,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: R을 사용하여<br>그래프 그리기
-        link: http://34.64.239.164:8000
+        link: 
         additional_links:
           - title:  빅데이터 그래프
             icon: fab fa-github
