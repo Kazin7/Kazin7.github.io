@@ -48,9 +48,9 @@ content:
     layout: text # Type of content section (list/text)
     content:
       -네트워크관리사2급<br>
-      images/네트워크관리사.png
-      -리눅스마스터2급
-      images/네트워크관리사.png
+      <img src="images/네트워크관리사.png">
+      -리눅스마스터2급<br>
+      <img src="images/네트워크관리사.png">
   - title: 📋2022 2학기 주요 커리큘럼 수강 이력
     layout: text # Type of content section (list/text)
     content:
