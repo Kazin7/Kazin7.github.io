@@ -47,10 +47,10 @@ content:
   - title: 🏆취득 자격증
     layout: text # Type of content section (list/text)
     content:
-      -네트워크관리사2급<br>
-      <img src="images/Network.png">
-      -리눅스마스터2급<br>
-      <img src="images/LinuxMaster.png">
+      <mark>네트워크관리사2급</mark><br>
+      <img src="images/Network.png"><br>
+      <mark>리눅스마스터2급</mark><br>
+      <img src="images/LinuxMaster.png"><br>
   - title: 📋2022 2학기 주요 커리큘럼 수강 이력
     layout: text # Type of content section (list/text)
     content:
