@@ -71,7 +71,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: WordPress를 이용한 웹사이트 구현
+        title: WordPress를 이용한 <br>웹사이트 구현
         link: http://34.64.239.164:8000
         additional_links:
           - title:  무서운 게시판
