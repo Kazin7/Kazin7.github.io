@@ -62,7 +62,7 @@ content:
       　　　　　　　　　　　　　　　　　　　　　　　　　3. <mark>인공지능영어2</mark><br><br>
       　　　　　　　　　　　　　　　　　　　　　　　　　4. <mark>빅데이터기초</mark><br><br>
       　　　　　　　　　　　　　　　　　　　　　　　　　5. <mark>VR/AR게임제작기초</mark><br><br>
-                               　　　　　　　　　　　　　　　　　　　　　　　　6. <mark>오픈소스SW개발도구활용</mark><br><br>
+                               　　　　　　　　　　　　　　　　　　　　　　　　　6. <mark>오픈소스SW개발도구활용</mark><br><br>
       </h2>
                                          
   - title: 밥먹기
@@ -72,7 +72,9 @@ content:
   - title: 앞으로의 계획
     layout: text # Type of content section (list/text)
     content:
-      　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<mark>네트워크관리사2급</mark><br>
+      　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<mark>현재는 백준 사이트에서 코딩테스트 준비를 위한 공부를 하고있으며 골드를 찍는 것이 목표입니다! 또한 VMWARE를 사용한 서버를 구동하여 서버에 침투하는 네트워크 보안에 대하여 공부할 계획입니다.</mark><br>
+                                     유니티를 사용하여 공포 게임도 만들 예정이며, 웹사이트도 만들것입니다!<br>
+                                     컴퓨터 지식뿐만아니라, 제 몸도 챙기기 위해 운동도 꾸준히 할 예정입니다!<br>
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
