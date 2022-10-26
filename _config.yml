@@ -31,6 +31,9 @@ about_content: | # this will include new lines to allow paragraphs
   - **소속**<br>
   전공 : 빅데이터 <br>
   부전공 : 콘텐츠 IOT <br>
+  
+  저는 발전해나가는 것을 좋아하는 공대생입니다.
+  
 content:
   - title: ✏학습 프로그래밍 언어 # Title for the section
     layout: text # Type of content section (list/text)
